@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "wardentools:echo_ingot"
+    "item": "mythicupgrades:topaz_ingot"
   },
   "base": {
     "tag": "triqueapi:over_leggings"
   },
   "result": {
-    "item": "wardentools:warden_leggings"
+    "item": "mythicupgrades:topaz_leggings"
   },
   "template": {
-    "item": "wardentools:warden_upgrade_smithing_template"
+    "item": "mythicupgrades:topaz_upgrade_smithing_template"
   }
 }

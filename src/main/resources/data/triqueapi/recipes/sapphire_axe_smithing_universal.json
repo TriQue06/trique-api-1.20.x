@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "wardentools:echo_ingot"
+    "item": "mythicupgrades:sapphire_ingot"
   },
   "base": {
     "tag": "triqueapi:over_axes"
   },
   "result": {
-    "item": "wardentools:warden_axe"
+    "item": "mythicupgrades:sapphire_axe"
   },
   "template": {
-    "item": "wardentools:warden_upgrade_smithing_template"
+    "item": "mythicupgrades:sapphire_upgrade_smithing_template"
   }
 }

@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "wardentools:echo_ingot"
+    "item": "mythicupgrades:ametrine_ingot"
   },
   "base": {
     "tag": "triqueapi:over_boots"
   },
   "result": {
-    "item": "wardentools:warden_boots"
+    "item": "mythicupgrades:ametrine_boots"
   },
   "template": {
-    "item": "wardentools:warden_upgrade_smithing_template"
+    "item": "mythicupgrades:ametrine_upgrade_smithing_template"
   }
 }

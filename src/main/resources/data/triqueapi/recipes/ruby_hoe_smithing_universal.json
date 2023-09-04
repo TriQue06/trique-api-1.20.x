@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "wardentools:echo_ingot"
+    "item": "mythicupgrades:ruby_ingot"
   },
   "base": {
     "tag": "triqueapi:over_hoes"
   },
   "result": {
-    "item": "wardentools:warden_hoe"
+    "item": "mythicupgrades:ruby_hoe"
   },
   "template": {
-    "item": "wardentools:warden_upgrade_smithing_template"
+    "item": "mythicupgrades:ruby_upgrade_smithing_template"
   }
 }

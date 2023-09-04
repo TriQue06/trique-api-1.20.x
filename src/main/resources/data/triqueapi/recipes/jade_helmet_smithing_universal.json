@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "wardentools:echo_ingot"
+    "item": "mythicupgrades:jade_ingot"
   },
   "base": {
     "tag": "triqueapi:over_helmets"
   },
   "result": {
-    "item": "wardentools:warden_helmet"
+    "item": "mythicupgrades:jade_helmet"
   },
   "template": {
-    "item": "wardentools:warden_upgrade_smithing_template"
+    "item": "mythicupgrades:jade_upgrade_smithing_template"
   }
 }
